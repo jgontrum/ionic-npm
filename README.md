@@ -4,6 +4,11 @@
 Since the official NPM release repository has not been updated for month,
 I decided to create an unofficial one.
 
+**Usage**:
+```
+npm install --save ionic-sdk-unofficial
+```
+
 All credit goes to [Ionic](http://ionicframework.com)
 
 Ionic Framework Release Code: [CDN](http://code.ionicframework.com/#)
